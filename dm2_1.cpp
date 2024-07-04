@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"day la demo 1 ma";
+    cout<<"no la demo2 ma ";
 }
